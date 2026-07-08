@@ -1,0 +1,8 @@
+node_modules/
+dist/
+out/
+cache/
+broadcast/*/dry-run/
+.env
+*.log
+.DS_Store
